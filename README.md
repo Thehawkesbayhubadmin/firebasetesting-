@@ -1,2 +1,0 @@
-# firebasetesting-
-Testing firebase
